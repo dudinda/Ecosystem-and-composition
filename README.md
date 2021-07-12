@@ -1,2 +1,6 @@
 # Ecosystem-and-composition
-An attemp to create a model of the entire software ecosystem and represent an application architecture as a composition of the UI layer and application itself
+
+<p align="center">
+    <img src="https://i.imgur.com/HdT8MBA.png" alt="application window">
+     <p align="center">Fig. 1 - The entire ecosystem. f o f.</p>
+</p>
