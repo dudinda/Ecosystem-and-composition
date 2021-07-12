@@ -1,4 +1,4 @@
-# Ecosystem-and-composition
+# Ecosystem and composition
 
 <p align="center">
     <img src="https://i.imgur.com/HdT8MBA.png" alt="application window">
