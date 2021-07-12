@@ -4,3 +4,5 @@
     <img src="https://i.imgur.com/mZtAxXv.png" alt="application window">
      <p align="center">Fig. 1 - The entire ecosystem of a process named application and its UI layer. f o f.</p>
 </p>
+
+<p>Using the microkernel with the Razor engine it is possible to compose MVC and MVP. What are the MVP o MVC, MVVM o MVC, MVC o MVC, etc. compositions? </p>
