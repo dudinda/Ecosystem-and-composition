@@ -2,9 +2,10 @@
 1. [Enumeration and description](#)
 2. [Processes and subsystems](#)
 3. [Boundaries and static](#)
-4. [Interfaces and components](#)
-5. [Events and requests](#)
-6. [Ecosystem and composition](#)
+4. [Presentation and exceptions](#)
+5. [Interfaces and components](#)
+6. [Events and requests](#)
+7. [Ecosystem and composition](#)
 ***
 <p>A server process and a client application: an MVC monolith composed with an MVVM monolith. https://github.com/dudinda/MVPTemplate The engine represents the mvp model, but still each wpf window can have multiple view models to navigate inside a window: an MVP monolith composed with an MVVM monolith. Representing an operating system as layers from hardware up to user interface the same model navigating the transient/singleton system processes follows. </p>
 <p align="center">
